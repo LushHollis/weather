@@ -1,0 +1,38 @@
+html{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* @media screen and (min-width: 1000px) {
+    #center-div{
+        position:absolute;
+        left:40%;
+        top:40%;
+    }
+    #temp{
+        font-size:128px;
+        display:inline;
+        padding-right:20px;
+        border-right:solid black 1px;
+    }
+    #center-div-right{
+        position:relative;
+        bottom:60px;
+        font-size:24px;
+        display:inline;
+        padding-left:20px;
+    }
+    #temp_min{
+        display:inline;
+        font-size:24px;
+        padding-left:20px;
+        position:relative;
+        right:31.5%;
+    }
+    #temp_max{
+        display:inline;
+        font-size:24px;
+        padding-left:20px;
+        position:relative;
+        right:31.5%;
+    }
+} */
